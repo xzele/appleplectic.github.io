@@ -15,3 +15,7 @@ Minecraft Servers: https://minecraftservers.org/server/629898 (please vote to in
 Minecraft Server List: https://minecraft-server-list.com/server/484553/ (also please vote!)
 
 Minecraft Server Lobby: https://minecraft.serverlobby.io/en/server/mc-smp (please leave a rating and vote!)
+
+Top Minecraft Servers: https://topminecraftservers.org/server/24152
+
+Best Minecraft Servers: https://best-minecraft-servers.co/server-mc-smp.3382
